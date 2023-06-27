@@ -1,0 +1,2 @@
+GS010015.360 filter=lfs diff=lfs merge=lfs -text
+*.360.* filter=lfs diff=lfs merge=lfs -text
